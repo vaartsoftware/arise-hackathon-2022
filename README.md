@@ -2,7 +2,7 @@
 
 ![MAC](MAC.png)
 
-Our ARISE 2022 hackathon submission: the Cameratrap Research Citizen Science Network, aka CRCSN.
+Our ARISE 2022 hackathon submission: the Camtrap Research Citizen Science Network, aka CRCSN.
 
 Driven by MAC, our Miniature Animal Capture device (implementing CuteAI standards), this network allows scientists and citizens working together on ecological research in urban areas.
 
