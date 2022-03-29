@@ -1,4 +1,4 @@
-# arise-hackathon-2022
+# ARISE hackathon 2022
 
 ![MAC](MAC.png)
 
